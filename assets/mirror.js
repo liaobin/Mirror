@@ -38,7 +38,7 @@ var _template = {
             social += '<a target="_blank" class="icon-instagram" href="'+ config.instagram +'"></a>'
         }
 
-        var user = '<img src="'+ data.avatar_url +'" />'+
+        var user = '<img src="https://o2mu9ei56.qnssl.com/7258927%20%281%29.png" />'+
                    '<h1>'+ data.name +'</h1>'+
                    '<p>'+ config.info +'</p>'+
                    '<section>'+ social +'</section>';
