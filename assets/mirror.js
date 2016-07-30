@@ -1,7 +1,7 @@
 
 var _load = function(url, data, callback, error) {
 
-    url = 'https://api.github.com'+ url; 
+    url = 'https://api.leob.in'+ url; 
     data.access_token = config.token;
 
     $.ajax({
